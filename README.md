@@ -1,2 +1,2 @@
 <a href="https://www.linkedin.com/in/filipediasbittencourt/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white;link=https://www.linkedin.com/in/filipediasbittencourt/" style="max-width: 100%;"></a>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="198" data-canonical-src="https://img.shields.io/badge/-filipe.dbitt@gmail.com-6633cc?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:filipe.dbitt@gmail.com" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white";link=mailto:filipe.dbitt@gmail.com" style="max-width: 100%;">
